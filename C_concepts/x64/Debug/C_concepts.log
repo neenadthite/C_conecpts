@@ -1,0 +1,10 @@
+﻿  structurepadding.c
+C:\Users\141584\OneDrive - Arrow Electronics, Inc\Documents\C_concepts\C_concepts\structurepadding.c(41,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+C:\Users\141584\OneDrive - Arrow Electronics, Inc\Documents\C_concepts\C_concepts\structurepadding.c(41,9): message : consider using '%zu' in the format string
+C:\Users\141584\OneDrive - Arrow Electronics, Inc\Documents\C_concepts\C_concepts\structurepadding.c(42,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+C:\Users\141584\OneDrive - Arrow Electronics, Inc\Documents\C_concepts\C_concepts\structurepadding.c(42,9): message : consider using '%zu' in the format string
+C:\Users\141584\OneDrive - Arrow Electronics, Inc\Documents\C_concepts\C_concepts\structurepadding.c(43,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+C:\Users\141584\OneDrive - Arrow Electronics, Inc\Documents\C_concepts\C_concepts\structurepadding.c(43,9): message : consider using '%zu' in the format string
+C:\Users\141584\OneDrive - Arrow Electronics, Inc\Documents\C_concepts\C_concepts\structurepadding.c(44,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+C:\Users\141584\OneDrive - Arrow Electronics, Inc\Documents\C_concepts\C_concepts\structurepadding.c(44,9): message : consider using '%zu' in the format string
+  C_concepts.vcxproj -> C:\Users\141584\OneDrive - Arrow Electronics, Inc\Documents\C_concepts\x64\Debug\C_concepts.exe
